@@ -1,5 +1,7 @@
 # Internship-Assignement-The-Indegenous-
 This is the Assignment for internship given by The Indegenous
+
+
 Internship question : fullstack
 Problem Statement : Design a Django app with an HTML/JavaScript Front end and a database.
 The following should be the properties of the framework :
